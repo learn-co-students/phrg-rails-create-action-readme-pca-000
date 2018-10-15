@@ -76,4 +76,8 @@ In this refactored `create` action, we're following the convention of redirectin
 
 All our tests should be passing now, and the site is working in the browser. Users are able to create records in the database using the HTML form, and, upon submitting a new post, they're automatically redirected to the `show` page for the post they just created. In future lessons, we'll refactor this further to incorporate awesome Rails components like `strong parameters` and `error handling`, but don't worry about those yet. Great job!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-create-action-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-create-action-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Create Action</p>
