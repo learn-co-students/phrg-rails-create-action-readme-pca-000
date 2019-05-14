@@ -79,5 +79,3 @@ All our tests should be passing now, and the site is working in the browser. Use
 ## Does this need an update?
 
 Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-create-action-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-create-action-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
-
-<p data-visibility='hidden'>PHRG Create Action</p>
